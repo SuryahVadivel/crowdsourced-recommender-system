@@ -65,3 +65,8 @@ The goal was to simulate a real-world product recommender that:
 ---
 
 ## Project Structure
+crowdsourced-recommender-system/
+│── Beeradvocate_recommender_system.ipynb # Scraping + recommender approaches
+│── beer_reviews_final.csv # Final dataset (~3.4MB)
+│── requirements.txt # Dependencies
+│── README.md # Documentation
