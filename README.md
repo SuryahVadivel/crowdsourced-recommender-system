@@ -1,5 +1,8 @@
 # Building a Crowd-Sourced Beer Recommendation System
 
+![ Crowd-Sourced Beer Recommendation System](Crowd_Sourced_Beer_Recommendation_System.png)
+
+
 ## Project Overview
 This project was developed as part of a group assignment to design and implement the building blocks of a crowdsourced recommender system.  
 
